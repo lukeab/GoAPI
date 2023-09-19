@@ -11,7 +11,7 @@
 
 ---
 
-**Documentation**: <a href="https://github.com/hvuhsg/GoAPI/README.md" target="_blank">https://github.com/hvuhsg/GoAPI/README.md</a>
+**Documentation**: <a href="https://github.com/hvuhsg/GoAPI/blob/main/README.md" target="_blank">https://github.com/hvuhsg/GoAPI/README.md</a>
 
 **Source Code**: <a href="https://github.com/hvuhsg/GoAPI" target="_blank">https://github.com/hvuhsg/GoAPI</a>
 
